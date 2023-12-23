@@ -1,9 +1,4 @@
-**Simulation decomposition** or **SimDec** is an uncertainty and sensitivity analysis method, which is based on Monte Carlo simulation. SimDec consists of three major parts:
-
-1. computing significance indices,
-2. creating multi-variable scenarios and mapping the output values to them, and
-3. visualizing the scenarios on the output distribution by color-coding its segments.
-SimDec reveals the nature of causalities and interaction effects in the model.
+**Simulation decomposition** or **SimDec** is an uncertainty and sensitivity analysis method, which is based on Monte Carlo simulation. It creates multi-variable scenarios and maps them onto the distribution of the output values. This way, SimDec reveals the nature of causalities and interaction effects in the model.
 See our [publications](https://www.simdec.fi/publications) and join our [discord community](https://discord.gg/54SFcNsZS4).
 
 ## Using SimDec Excel
